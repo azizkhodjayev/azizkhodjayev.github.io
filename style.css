@@ -1,0 +1,31 @@
+ch1 
+{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+p
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 24px;
+}
+pre
+{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px 
+}
+#movie
+{
+    background-color: rgba(141, 141, 3, 0.801);
+}
+#index
+{
+    background-color:rgb(165, 29, 29);
+}
+img
+{
+    align-self: center;
+}
